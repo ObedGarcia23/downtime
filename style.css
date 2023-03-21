@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: content-box;
+
+}
+
+.formulario {
+    padding-left: 20%;
+    padding-right: 20%;    
+}
+
+.header{
+    background-color: #16214B ;
+    height: 100%;
+    width: 100%;
+    color: white !important;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maquina_linea{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.form{
+    background-color: #16214B;
+    border-radius: 5px;
+    color: white !important;
+    padding: 2% 20% 2% 20%;
+}
+
